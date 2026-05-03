@@ -43,16 +43,5 @@ Fresh graduate developer focused on practical software projects, desktop applica
 ## Contact
 
 - GitHub: [github.com/Leuename](https://github.com/Leuename)
-- Portfolio website: `https://leuename.github.io/portfolio/` placeholder
+- Portfolio website: [leuename.github.io/Leuname](https://leuename.github.io/Leuname/)
 - Add email or LinkedIn before publishing if you want direct recruiter contact links.
-
-## GitHub Profile README Setup
-
-This README is for the special GitHub profile repository `Leuename/Leuename`.
-
-To show it on `https://github.com/Leuename`:
-
-1. Under the `Leuename` GitHub account, create a repository named exactly `Leuename`, making the full path `Leuename/Leuename`.
-2. Copy this file into that repository as `README.md`.
-3. Commit and push it to the default branch.
-4. GitHub will automatically display it on the account overview page.
