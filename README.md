@@ -41,9 +41,3 @@ I build practical AI and automation projects that connect usable interfaces with
 ## Current Focus
 
 - Building practical AI assistants, automation workflows, and LLM-powered web applications
-
-## Contact
-
-- Email: [millaveemmanuel15@gmail.com](mailto:millaveemmanuel15@gmail.com)
-- GitHub repositories: [github.com/Leuename?tab=repositories](https://github.com/Leuename?tab=repositories)
-- LinkedIn: [linkedin.com/in/emillave](https://www.linkedin.com/in/emillave)
