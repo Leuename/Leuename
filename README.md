@@ -20,10 +20,6 @@
   <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338E?style=flat-square&logo=opencv&logoColor=white">
 </p>
 
-## About
-
-I build practical AI and automation projects that connect usable interfaces with LLM workflows, local or cloud-backed data, guardrails, and deployment-ready web systems. My strongest recent work is around AI assistants, resume-analysis workflows, recipe chat systems, and applied computer vision prototypes.
-
 ## Featured Work
 
 1. [**Shef**](https://github.com/Leuename/Shef) - Public browser-based recipe chat assistant using FastAPI, LangChain/NVIDIA endpoints, Anthropic, Tavily recipe search, guardrails, rate limiting, and privacy-aware usage logging.
