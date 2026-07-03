@@ -1,13 +1,14 @@
 <h1 align="center">Emmanuel Millave</h1>
 
 <p align="center">
-  Fresh graduate developer focused on AI applications, automation workflows, LLM-powered tools, computer vision prototypes, and practical software systems.
+  Hi, my focus is on AI integration, automation workflows, LLM-powered tools, computer vision prototypes, and practical software systems.
 </p>
 
 <p align="center">
   <a href="mailto:millaveemmanuel15@gmail.com">Email</a> |
   <a href="https://github.com/Leuename?tab=repositories">Repositories</a> |
-  <a href="https://www.linkedin.com/in/emillave">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/emillave">LinkedIn</a> | 
+  <a href="https://leuename.github.io/Leuname/">Portfolio</a>
 </p>
 
 <p align="center">
