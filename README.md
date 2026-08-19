@@ -1,12 +1,13 @@
 <h1 align="center">Emmanuel Millave</h1>
 
 <p align="center">
-  Hi, my focus is on AI integration, automation workflows, LLM-powered tools, computer vision prototypes, and practical software systems.
+  Hey!
+  Thanks for stopping by.
+  I'm Emmanuel, an AI enthusiast and an app builder.
+  Let's connect?
 </p>
 
 <p align="center">
-  <a href="mailto:millaveemmanuel15@gmail.com">Email</a> |
-  <a href="https://github.com/Leuename?tab=repositories">Repositories</a> |
   <a href="https://www.linkedin.com/in/emillave">LinkedIn</a> | 
   <a href="https://leuename.github.io/Leuname/">Portfolio</a>
 </p>
@@ -21,20 +22,3 @@
   <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338E?style=flat-square&logo=opencv&logoColor=white">
 </p>
 
-## Featured Work
-
-1. [**Shef**](https://github.com/Leuename/Shef) - Public browser-based recipe chat assistant using FastAPI, LangChain/NVIDIA endpoints, Anthropic, Tavily recipe search, guardrails, rate limiting, and privacy-aware usage logging.
-2. **GradeFit** - Private AI resume analysis and report-generation app using FastAPI, LLM provider integrations, Supabase-backed workflows, n8n automation, Apps Script, PDF generation, and Render/Vercel deployment.
-3. [**IVIS**](https://github.com/Leuename/IntelligentVisualInspectionSystem-IVIS) - Public visual inspection system using Python, PySide6, OpenCV, YOLO, SQLite, and Arduino serial control.
-4. [**Fire and Smoke**](https://github.com/Leuename/FIRE-AND-SMOKE-DETECTION-WITH-AUTOMATED-FIRE-SUPPRESSION-USING-IMAGE-PROCESSING-AND-MACHINE-LEARNING) - Public fire and smoke detection prototype with image processing, machine-learning detection, and automated suppression control.
-5. **DiscoBuddy** - Private operator workflow desktop app using Python, PySide6, SQLite, scanner-style input flows, and packaged deployment.
-
-## Technical Focus
-
-- AI application development with LangChain, LangGraph, Zapier, and n8n
-- LLM-powered web apps using FastAPI, streaming responses, and multi-provider model integrations
-- Guardrails, rate limiting, prompt-injection filtering, and privacy-aware usage logging for AI apps
-
-## Current Focus
-
-- Building practical AI assistants, automation workflows, and LLM-powered web applications
