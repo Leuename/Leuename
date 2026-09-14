@@ -1,9 +1,7 @@
-<h1 align="center">Emmanuel Millave</h1>
+<h1 align="center"> Hi! I am Emmanuel Millave</h1>
 
 <p align="center">
-  Hey!
-  Thanks for stopping by.
-  I'm Emmanuel, an AI enthusiast and an app builder.
+  I'm an AI enthusiast and an app builder.
   Let's connect?
 </p>
 
