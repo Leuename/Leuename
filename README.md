@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/emillave">LinkedIn</a> | 
-  <a href="https://leuename.github.io/Leuname/">Portfolio</a>
+  <a href="https://leuname.vercel.app/">Portfolio</a>
 </p>
 
 <p align="center">
